@@ -1,0 +1,1 @@
+spring:  application:    name: Signing XML Documents and Verify Signaturecustom-store:  key-store-type: PKCS12  key-store-path: /etc/pki/ca-trust/telekom.p12  key-store-pass: telekom123  key-store-alias: TelekomCertenvelope:  path: /var/envelope-examples/request.xml  transform-path: /var/envelope-examples/transform.xmldebug: false

@@ -1,0 +1,1 @@
+<RegisterInvoiceRequest xmlns="https://efi.tax.gov.me/fs/schema"    xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" Id="Request" Version="3">    <Header></Header>    <Invoice></Invoice></RegisterInvoiceRequest>
